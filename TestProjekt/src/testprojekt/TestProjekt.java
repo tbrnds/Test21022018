@@ -16,6 +16,11 @@ public class TestProjekt {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        TestProjekt my = new TestProjekt();
+        my.hello();
+    }
+    public void hello(){
+        System.out.println("Hello World.");
     }
     
     
