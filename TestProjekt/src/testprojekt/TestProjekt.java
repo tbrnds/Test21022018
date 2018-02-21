@@ -23,6 +23,9 @@ public class TestProjekt {
     public void hello(){
         System.out.println("Hello World.");
     }
+    public void hello2(){
+        System.out.println("Erneut Hello World.");
+    }
     
     
 }
